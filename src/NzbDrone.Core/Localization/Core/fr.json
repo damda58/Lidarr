@@ -624,7 +624,7 @@
     "Renamed": "Renommé",
     "Replace": "Remplacer",
     "RestartRequiredHelpTextWarning": "Nécessite un redémarrage pour prendre effet",
-    "RestoreBackupAdditionalInfo": "Remarque : Radarr redémarrera et rechargera automatiquement l'interface utilisateur pendant le processus de restauration.",
+    "RestoreBackupAdditionalInfo": "Remarque : Lidarr redémarrera et rechargera automatiquement l'interface utilisateur pendant le processus de restauration.",
     "Save": "Sauvegarder",
     "SecificMonitoringOptionHelpText": "Surveiller les auteurs, mais seulement surveiller les livres explicitement inclus dans la liste",
     "Seeders": "Seeders",
